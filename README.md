@@ -15,5 +15,6 @@ Data-sets choisies :
 WikiANN (parfois appelé PAN-X) est un jeu de données multilingue de reconnaissance d'entités nommées constitué d'articles de Wikipédia annotés avec des balises LOC (localisation), PER (personne) et ORG (organisation) au format IOB2. Cette version correspond aux divisions équilibrées train, dev et test de Rahimi et al. (2019), qui prend en charge 176 des 282 langues du corpus original WikiANN.liens des data-sets :
 
 Homepage:  https://github.com/afshinrahimi/mmner
+
 Dataset:  https://github.com/huggingface/datasets/blob/master/datasets/wikiann/wikiann.py
 
